@@ -1,0 +1,25 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+h2, h3 {
+    color: #000000;
+}
+.section {
+    margin-bottom: 20px;
+    text-indent: 250px;
+}
+.section h2 {
+    border-bottom: 1px solid #ccc;
+    padding-bottom: 5px;
+    margin-bottom: 10px;
+
+}
+.section ul {
+    list-style-type: none;
+    padding: 0;
+}
+.section ul li {
+    margin-bottom: 10px;
+}
